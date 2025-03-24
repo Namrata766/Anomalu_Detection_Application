@@ -1,5 +1,0 @@
-﻿id,category,timestamp,price,status
-101,A,2024-03-04 15:00:00,130,Active
-102,B,2024-03-04 16:30:00,250,Inactive
-103,A,2024-03-04 09:00:00,140,Inactive
-104,C,2024-03-04 11:00:00,315,Active
